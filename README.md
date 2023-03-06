@@ -21,8 +21,8 @@ logo to detect its emotion. You can see probability
 of every emotion by clicking on the `Details` button.
 
 
-<img src="imgs/extension-ss.png" width="400"/>
-<img src="imgs/details-ss.png" width="400"/> 
+<img src="imgs/extension-ss.png" width="300"/>
+<img src="imgs/details-ss.png" width="300"/> 
 
 
 ## Project Details
