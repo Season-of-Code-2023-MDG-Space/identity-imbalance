@@ -39,5 +39,6 @@ So, we used some third party api to develop the Chrome extension.
 Our next target is to deploy the api and use that in our project.
 2. After detecting emotions of texts, we also wish to detect emotions of pictures
 users see on their page. We'll again use some pre-developed model. 
-
+3. We also wish to add our extension to Chrome store but couldn't due to a silly reason.
+   (Our cards are not getting accepted to pay developer fee)
 
